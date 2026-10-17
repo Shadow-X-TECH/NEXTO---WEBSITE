@@ -28,13 +28,13 @@ Hope you like my NEXTO , checking it out! And your Encouragement is my energy ( 
 
  ------THANKYOU------
 # Screenshots
-1. ![My Website Screenshot]()
-2. ![My Website Screenshot]()
-3. ![My Website Screenshot]()
-4. ![My Website Screenshot]()
-5. ![My Website Screenshot]()
-6. ![My Website Screenshot]()
-7. ![My Website Screenshot]()
+1. ![My Website Screenshot](1.png)
+2. ![My Website Screenshot](2.png)
+3. ![My Website Screenshot](3.png)
+4. ![My Website Screenshot](4.png)
+5. ![My Website Screenshot](5.png)
+6. ![My Website Screenshot](6.png)
+7. ![My Website Screenshot](7.png)
 
 
 
